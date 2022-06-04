@@ -3,9 +3,9 @@
 	width: 100vw;
 	background: #e1e1e1;
 	display: flex;
-	padding: 2rem;
+  padding-top: 15rem;
 	justify-content: center;
-	align-items: flex-end;
+	align-items: flex-start;
 }
 .Counter-header {
   height: 50%;
